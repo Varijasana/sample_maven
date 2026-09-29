@@ -5,6 +5,6 @@ package com.kmit.sample_maven;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello, World! This is maven java project.");
+        System.out.println("Hello, World! This is Maven Java project.");
     }
 }
